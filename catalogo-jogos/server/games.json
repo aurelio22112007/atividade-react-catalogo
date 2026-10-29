@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nome": "The Legend of Zelda: Breath of the Wild", "preco": 299.9, "plataforma": "Nintendo Switch", "genero": "Aventura", "nota": 9.7, "ano": 2017, "descricao": "Exploração de mundo aberto em Hyrule, com liberdade para resolver desafios de várias formas." },
+  { "id": 2, "nome": "Hollow Knight", "preco": 46.99, "plataforma": "PC", "genero": "Metroidvania", "nota": 9.4, "ano": 2017, "descricao": "Aventura 2D em um reino subterrâneo de insetos, com combate preciso e mapa interligado." },
+  { "id": 3, "nome": "Celeste", "preco": 36.99, "plataforma": "PC", "genero": "Plataforma", "nota": 9.2, "ano": 2018, "descricao": "Plataforma desafiadora sobre escalar uma montanha, com história sensível e trilha marcante." },
+  { "id": 4, "nome": "God of War Ragnarök", "preco": 249.9, "plataforma": "PlayStation 5", "genero": "Ação", "nota": 9.5, "ano": 2022, "descricao": "Kratos e Atreus enfrentam o fim do mundo na mitologia nórdica." },
+  { "id": 5, "nome": "Stardew Valley", "preco": 24.99, "plataforma": "PC", "genero": "Simulação", "nota": 9.3, "ano": 2016, "descricao": "Simulador de fazenda relaxante: plante, crie animais, pesque e faça amizade com a vila." },
+  { "id": 6, "nome": "Hades", "preco": 73.99, "plataforma": "PC", "genero": "Roguelike", "nota": 9.4, "ano": 2020, "descricao": "Roguelike de ação em que o filho de Hades tenta escapar do submundo grego." },
+  { "id": 7, "nome": "Forza Horizon 5", "preco": 199.9, "plataforma": "Xbox Series X", "genero": "Corrida", "nota": 9.0, "ano": 2021, "descricao": "Corrida em mundo aberto ambientada no México, com centenas de carros." },
+  { "id": 8, "nome": "Super Mario Odyssey", "preco": 279.9, "plataforma": "Nintendo Switch", "genero": "Plataforma", "nota": 9.3, "ano": 2017, "descricao": "Mario viaja por reinos diferentes usando Cappy para capturar inimigos e objetos." },
+  { "id": 9, "nome": "Minecraft", "preco": 129.9, "plataforma": "Multiplataforma", "genero": "Sandbox", "nota": 9.1, "ano": 2011, "descricao": "Mundo de blocos para explorar, construir e sobreviver, sozinho ou com amigos." },
+  { "id": 10, "nome": "Elden Ring", "preco": 229.9, "plataforma": "PlayStation 5", "genero": "RPG de ação", "nota": 9.6, "ano": 2022, "descricao": "RPG de ação em mundo aberto, com combate exigente e exploração livre." }
+]
